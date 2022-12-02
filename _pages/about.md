@@ -8,16 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am a postdoctoral fellow in the Department of Psychological and Brain Sciences at Johns Hopkins, supervised by Dr. Christopher Honey. My research involves developing robust and flexible machine learning systems. In particular, I am interested in understanding how multi-task learning, cognitive flexibility, and transfer is achieved in humans, and then using this understanding to implement robust lifelong learning machines. I am also interested in developing and applying machine learning approaches to identify patterns in complex naturalistic human behavioral data. Thus, I have experience in both machine learning research/development and conducting human psychology experiments. Prior to my current position, I obtained my PhD in Biomedical Engineering at Johns Hopkins under the supervision of Dr. Joshua Vogelstein. During my PhD, I developed and characterized novel decision forest-based machine learning algorithms.
+I have a passion for AI and firmly believe in its capacity to improve the quality of life for the greatest number of people. My experience as a PhD student in the Biomedical Engineering program at Johns Hopkins afforded me the opportunity to develop machine learning methods and apply them to problems in biomedical science and healthcare. Thus, I collaborated with biomedical scientists and medical doctors, witnessing firsthand how AI can improve the diagnoses, treatments, and prognoses of diseases.
 
-Cognitive Flexibility, Multi-Task Learning, and Transfer
-======
-TBD
-
-The Similarity Structure of Naturalistic Events
-======
-TBD
-
-Novel Decision Forest Algorithms
-======
-TBD
+My passion to learn and push the boundaries of AI led me to accept a postdoc position in the Psychological and Brain Sciences Department at Johns Hopkins. The unique types of data and problems faced by psychologists, cognitive scientists, and neuroscientists inspired me to develop and apply novel machine learning approaches. Furthermore, it inspired me to apply what I learned about human cognition to achieve more human-like transfer learning, continual learning, and representation learning neural network algorithms.
