@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Download CV [here](https://tyler-tomita.github.io/files/cv.pdf).
+View my CV [here](https://tyler-tomita.github.io/files/cv.pdf).
